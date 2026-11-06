@@ -32,12 +32,12 @@
     "dedent": "^1.7.0",
     "drizzle-orm": "^0.45.1",
     "motion": "^12.23.26",
-    "next": "16.0.10",
+    "next": "16.4.5",
     "pg": "^8.16.3",
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "remotion": "4.0.390",
-    "workflow": "^4.0.1-beta.29",
+    "remotion": "4.0.541",
+    "workflow": "^4.8.16",
     "zod": "^4.1.13"
   },
   "devDependencies": {
